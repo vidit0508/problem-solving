@@ -1,10 +1,14 @@
 package src.main.java.searchingandsorting;
 
+import java.util.PriorityQueue;
+
 public class FindPeakElement {
 
     public static void main(String[] args) {
         int[] nums = {1,2,1,3,5,6,4};
         System.out.println(getPeak(nums));
+        PriorityQueue<Integer> queue = new PriorityQueue<>((a, b) -> a.compareTo(b));
+        queue.add(1);
     }
 
     private static int getPeak(int[] nums) {
