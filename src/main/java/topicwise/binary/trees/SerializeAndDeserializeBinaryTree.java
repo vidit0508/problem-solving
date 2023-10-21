@@ -1,6 +1,4 @@
-package src.main.java.companywise.linkedin.hard;
-
-import src.main.java.topicwise.binary.trees.TreeNode;
+package src.main.java.topicwise.binary.trees;
 
 // todo need to optimize more
 public class SerializeAndDeserializeBinaryTree {

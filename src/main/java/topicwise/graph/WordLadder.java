@@ -1,4 +1,4 @@
-package src.main.java.companywise.linkedin.hard;
+package src.main.java.topicwise.graph;
 
 import java.util.ArrayList;
 import java.util.Arrays;

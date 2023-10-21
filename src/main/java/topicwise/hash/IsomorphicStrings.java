@@ -1,4 +1,4 @@
-package src.main.java.companywise.linkedin.easy;
+package src.main.java.topicwise.hash;
 
 public class IsomorphicStrings {
 
