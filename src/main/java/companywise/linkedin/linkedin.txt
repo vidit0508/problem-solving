@@ -2,29 +2,57 @@
 ######## EASY ########
 ########################################################################################################################
 
-Two Sum -> src.main.java.topicwise.arrays.TwoSum
-Merge Two Sorted Lists -> src.main.java.topicwise.linked.list.MergeTwoSortedLists
-Symmetric Tree -> src.main.java.topicwise.binary.trees.SymmetricTree
-Maximum Depth of Binary Tree -> src.main.java.topicwise.binary.trees.MaximumDepthOfBinaryTree
-Isomorphic Strings -> src.main.java.topicwise.hash.IsomorphicStrings
-Valid Perfect Square -> src.main.java.topicwise.math.ValidPerfectSquare
+1. Two Sum -> src.main.java.topicwise.arrays.TwoSum
+2. Merge Two Sorted Lists -> src.main.java.topicwise.linked.list.MergeTwoSortedLists
+3. Symmetric Tree -> src.main.java.topicwise.binary.trees.SymmetricTree
+4. Maximum Depth of Binary Tree -> src.main.java.topicwise.binary.trees.MaximumDepthOfBinaryTree
+5. Isomorphic Strings -> src.main.java.topicwise.hash.IsomorphicStrings
+6. Valid Perfect Square -> src.main.java.topicwise.math.ValidPerfectSquare
+7. Symmetric Tree -> src.main.java.topicwise.binary.trees.SymmetricTree
+8. Maximum Depth of Binary Tree -> src.main.java.topicwise.binary.trees.MaximumDepthOfBinaryTree
+
+9. Can Place Flowers ->
+10. Second Minimum Node In a Binary Tree ->
 
 ########################################################################################################################
 ######## MEDIUM ########
 ########################################################################################################################
 
-Evaluate Reverse Polish Notation -> src.main.java.topicwise.stackandqueue.EvaluateReversePolishNotation
-Maximum Subarray -> src.main.java.topicwise.arrays.MaximumSubarray
-Merge Intervals -> src.main.java.topicwise.arrays.MergeIntervals
-Binary Tree Level Order Traversal -> src.main.java.topicwise.binary.trees.BinaryTreeLevelOrderTraversal
-Lowest Common Ancestor of a Binary Tree -> src.main.java.topicwise.binary.trees.LowestCommonAncestorOfABinaryTree
-Product of Array Except Self -> src.main.java.topicwise.arrays.ProductOfArrayExceptSelf
+11. Evaluate Reverse Polish Notation -> src.main.java.topicwise.stackandqueue.EvaluateReversePolishNotation
+12. Maximum Subarray -> src.main.java.topicwise.arrays.MaximumSubarray
+13. Merge Intervals -> src.main.java.topicwise.arrays.MergeIntervals
+14. Binary Tree Level Order Traversal -> src.main.java.topicwise.binary.trees.BinaryTreeLevelOrderTraversal
+15. Lowest Common Ancestor of a Binary Tree -> src.main.java.topicwise.binary.trees.LowestCommonAncestorOfABinaryTree
+16. Product of Array Except Self -> src.main.java.topicwise.arrays.ProductOfArrayExceptSelf
+17. Find Largest Value in Each Tree Row -> src.main.java.topicwise.binary.trees.FindLargestValueInEachTreeRow
+18. House Robber -> src.main.java.topicwise.dp.HouseRobber
 
+19. Search in Rotated Sorted Array -> solution present but need to revise
+20. Find First and Last Position of Element in Sorted Array -> solution present but need to revise
+21. Binary Tree Zigzag Level Order Traversal -> solution present but need to revise
+
+22. 4Sum ->
+23. Permutations ->
+24. Permutations II ->
+25. Pow(x, n) ->
+26. Insert Interval ->
+27. Maximum Product Subarray ->
+28. Binary Search Tree Iterator ->
+29. Repeated DNA Sequences ->
+30. Can I Win ->
+31. Sum of Square Numbers ->
+32. Palindromic Substrings ->
+33. Partition to K Equal Sum Subsets ->
 
 ########################################################################################################################
 ######## HARD ########
 ########################################################################################################################
-Serialize and Deserialize Binary Tree -> src.main.java.topicwise.binary.trees.SerializeAndDeserializeBinaryTree
-Word Ladder -> src.main.java.topicwise.graph.WordLadder
-House Robber -> src.main.java.topicwise.dp.HouseRobber
+34. Serialize and Deserialize Binary Tree -> src.main.java.topicwise.binary.trees.SerializeAndDeserializeBinaryTree
+35. Word Ladder -> src.main.java.topicwise.graph.WordLadder
+
+36. Valid Number ->
+37. Text Justification ->
+38. Minimum Window Substring ->
+39. Max Points on a Line ->
+40. Count Different Palindromic Subsequences ->
 
