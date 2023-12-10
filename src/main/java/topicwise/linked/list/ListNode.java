@@ -2,14 +2,14 @@ package src.main.java.topicwise.linked.list;
 
 public class ListNode {
 
-    int val;
+    public int val;
 
     public ListNode next;
 
     ListNode() {
     }
 
-    ListNode(int val) {
+    public ListNode(int val) {
         this.val = val;
     }
 
