@@ -1,4 +1,4 @@
-package src.main.java.top.onefifty.medium;
+package src.main.java.top.onefifty.medium.matrix;
 
 public class SetMatrixZeroes {
 
