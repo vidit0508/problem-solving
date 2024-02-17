@@ -21,11 +21,13 @@ public class ConstructBinaryTreeFromPreorderAndInorderTraversal {
     }
 
     public static TreeNode buildTree(int[] preorder, int[] inorder) {
-        preorderIndex = 0;
         inorderMap = new HashMap<>();
+        preorderIndex = 0;
+
         for (int i = 0; i < inorder.length; i++) {
             inorderMap.put(inorder[i], i);
         }
+
         return createTree(preorder, 0, preorder.length - 1);
     }
 
