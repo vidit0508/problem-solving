@@ -8,6 +8,8 @@ NOW the problem arises that what if multiple child classes are implementing same
 same way then this problem leads to code redundancy because two child classes now have the same exact
 implementation.
 
-
+So, this can be summarised as, whenever you feel that multiple child classes are implementing same functionality then
+instead of writing the same code in other child class you should use Strategy Design Pattern by simple making an
+interface of that particular method and create its own concrete classes.
 
 
