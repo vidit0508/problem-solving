@@ -1,0 +1,13 @@
+STRATEGY
+
+This patten is ideal to use when we have multiple child which are inheriting the same parent
+class. BUT instead of using the parent class functionality they want to implement their own specific
+implementation.
+
+NOW the problem arises that what if multiple child classes are implementing same functionality in the
+same way then this problem leads to code redundancy because two child classes now have the same exact
+implementation.
+
+
+
+
