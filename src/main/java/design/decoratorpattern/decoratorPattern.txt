@@ -1,0 +1,10 @@
+In decorator pattern, we have one base object which has its own properties and features (F1). Now, to add more
+functionality to this base object we will wrap this around the decorator with more functionality (F1 + F2).
+
+
+Use cases
+1. Like in pizza shop, where you create a base pizza and then add we will decorate with
+topping on it like extra cheese, extra topping, jalepeno.
+
+Why we need this decorator pattern?
+Because of the scenario of class explosion where you might need to create multiple Classes as per permutations.
